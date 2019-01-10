@@ -127,11 +127,11 @@ a[-1]
 
 `리스트로 스택 만들기`
 
-![img](/Users/dongsik/Documents/python/dojang/022007.png)
+![img](https://dojang.io/pluginfile.php/13694/mod_page/content/4/022007.png)
 
 `리스트로 큐 만들기`
 
-![img](/Users/dongsik/Documents/python/dojang/022008.png)
+![img](https://dojang.io/pluginfile.php/13694/mod_page/content/4/022008.png)
 
 - python에서 스택은 리스트로 활용해도 되지만 큐는 효율적으로 하기위해 덱 사용
 
@@ -165,7 +165,7 @@ a = [0,0,0,0,0]
 b = a
 ```
 
-![img](/Users/dongsik/Documents/python/dojang/022012.png)
+![img](https://dojang.io/pluginfile.php/13695/mod_page/content/1/022012.png)
 
 - 변수 이름만 다를 뿐 리스트 a와 b는 같은 객체
 - a와 b가 같으므로
