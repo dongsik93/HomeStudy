@@ -2,6 +2,8 @@
 
 ### try except 사용하기
 
+
+
 ```python
 try:
     실행할 코드
