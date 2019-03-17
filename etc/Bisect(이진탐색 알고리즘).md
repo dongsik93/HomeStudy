@@ -22,7 +22,6 @@ print(bisect(mylist, 3))
 ```
 
 
-
 - ##### bisect.bisect메소드를 이용
 
 ```python
