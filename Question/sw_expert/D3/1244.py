@@ -17,6 +17,7 @@ def find(n, k, c):
             find(n+1, k, c-cnt)
             card[n], card[i] = card[i], card[n]
 
+            
 T = int(input())
 for tc in range(1, T+1):
     c, N = input().split()
