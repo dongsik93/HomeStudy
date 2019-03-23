@@ -8,7 +8,7 @@ first = []
 for i in team:
     if(i[0] not in first):
         first.append(i[0])
-
+        
 res = []
 for k in range(len(first)):
     cnt = 0
