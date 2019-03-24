@@ -19,6 +19,7 @@ for k in range(len(first)):
     if(cnt >= 5):
         res.append(first[k])
 
+        
 if(res):
     print(*sorted(res),sep="")
 else:
