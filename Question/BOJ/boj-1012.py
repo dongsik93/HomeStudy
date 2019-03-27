@@ -19,7 +19,6 @@ def bfs(farm, i, j,n, m):
                     q.append(dy)
     return
 
-
 T = int(input())
 
 for tc in range(T):
