@@ -5,6 +5,7 @@ for i in range(T):
     k = k + 1
     a = (k)%2
     x = 3
+    
     while x <= n :
         y = k % x
         a = (y + a) % x
